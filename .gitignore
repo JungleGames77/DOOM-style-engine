@@ -1,0 +1,33 @@
+# Visual Studio local settings
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
+*.lastbuildstate
+*.log
+
+# Generated files
+*.aps
+*.pch
+*.cache
+
+# OS files
+Thumbs.db
+.DS_Store
